@@ -7,4 +7,4 @@
 
 [English](README.md) [简体中文](README.zh_CN.md)
 
-A pretty handy rpc framework.
+一个好用的rpc框架
